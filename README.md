@@ -76,7 +76,7 @@ $ make
 | queue, stack	| toggles the doubly link list implementation style. |
 | nop	| opcode should do nothing. |
 
-**Examples:** **`$ cat opcodetestfile.m`**
+**Example:** **`$ cat opcodetestfile.m`**
 
 `push 1`
 
